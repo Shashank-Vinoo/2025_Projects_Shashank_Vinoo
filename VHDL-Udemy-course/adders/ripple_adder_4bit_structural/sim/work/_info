@@ -1,0 +1,103 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/shash/OneDrive/Desktop/full_adder_structural/sim
+vfull_adder_structural
+!s110 1752850594
+!i10b 1
+!s100 bPCY;A^Jk]=`:In3=8[643
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I]GHZLf=2R?;jJffmBa]JQ2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/shash/OneDrive/Desktop/ripple_adder_4bit_structural/sim
+w1752774499
+8C:/Users/shash/OneDrive/Desktop/ripple_adder_4bit_structural/full_adder_structural.v
+FC:/Users/shash/OneDrive/Desktop/ripple_adder_4bit_structural/full_adder_structural.v
+!i122 0
+L0 1 32
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z4 !s108 1752850594.000000
+!s107 C:/Users/shash/OneDrive/Desktop/ripple_adder_4bit_structural/full_adder_structural.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/shash/OneDrive/Desktop/ripple_adder_4bit_structural/full_adder_structural.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vhalf_adder_structural
+Z7 !s110 1752850595
+!i10b 1
+!s100 0Y^ic67@N9_FSF]gfFV0H3
+R0
+IWAC2LL_b6]TTL306WZ@b02
+R1
+R2
+w1752699361
+8C:/Users/shash/OneDrive/Desktop/ripple_adder_4bit_structural/half_adder_structural.v
+FC:/Users/shash/OneDrive/Desktop/ripple_adder_4bit_structural/half_adder_structural.v
+!i122 1
+L0 1 5
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/shash/OneDrive/Desktop/ripple_adder_4bit_structural/half_adder_structural.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/shash/OneDrive/Desktop/ripple_adder_4bit_structural/half_adder_structural.v|
+!i113 1
+R5
+R6
+vripple_adder_4bit_structural
+R7
+!i10b 1
+!s100 >zcYJ<Z=dU9zCUQ;BO2a63
+R0
+IE2IXe^:^lNS^nJ]WJ:0B73
+R1
+R2
+w1752846775
+8C:/Users/shash/OneDrive/Desktop/ripple_adder_4bit_structural/ripple_adder_4bit_structural.v
+FC:/Users/shash/OneDrive/Desktop/ripple_adder_4bit_structural/ripple_adder_4bit_structural.v
+!i122 2
+L0 1 39
+R3
+r1
+!s85 0
+31
+Z8 !s108 1752850595.000000
+!s107 C:/Users/shash/OneDrive/Desktop/ripple_adder_4bit_structural/ripple_adder_4bit_structural.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/shash/OneDrive/Desktop/ripple_adder_4bit_structural/ripple_adder_4bit_structural.v|
+!i113 1
+R5
+R6
+vtestbench_4bit_adder
+R7
+!i10b 1
+!s100 b31H:cN7M:35hz4ZcPYj63
+R0
+ImkeDG]GSP73nzVF77B4d81
+R1
+R2
+w1752849466
+8C:/Users/shash/OneDrive/Desktop/ripple_adder_4bit_structural/testbench_4bit_adder.v
+FC:/Users/shash/OneDrive/Desktop/ripple_adder_4bit_structural/testbench_4bit_adder.v
+!i122 3
+L0 1 43
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/shash/OneDrive/Desktop/ripple_adder_4bit_structural/testbench_4bit_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/shash/OneDrive/Desktop/ripple_adder_4bit_structural/testbench_4bit_adder.v|
+!i113 1
+R5
+R6

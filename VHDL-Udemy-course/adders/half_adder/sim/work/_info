@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/
+vhalf_adder_structural
+Z0 !s110 1752682715
+!i10b 1
+!s100 A@?>m9[i]z1Sc=E?_FdL^2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I4GP7KCLRE7EGHLIcZFiSU2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/shash/OneDrive/Desktop/half_adder/sim
+w1752681749
+8C:/Users/shash/OneDrive/Desktop/half_adder/hald_adder.v
+FC:/Users/shash/OneDrive/Desktop/half_adder/hald_adder.v
+!i122 0
+L0 1 7
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1752682715.000000
+!s107 C:/Users/shash/OneDrive/Desktop/half_adder/hald_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/shash/OneDrive/Desktop/half_adder/hald_adder.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vtestbench
+R0
+!i10b 1
+!s100 =6eXkaMge_9W<`cJYaB392
+R1
+IJ8jg94G]7OR1JFV?k]JaW1
+R2
+R3
+w1752682547
+8C:/Users/shash/OneDrive/Desktop/half_adder/testbench.v
+FC:/Users/shash/OneDrive/Desktop/half_adder/testbench.v
+!i122 1
+L0 1 30
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/shash/OneDrive/Desktop/half_adder/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/shash/OneDrive/Desktop/half_adder/testbench.v|
+!i113 1
+R6
+R7

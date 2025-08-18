@@ -1,0 +1,8 @@
+C:/Users/shash/OneDrive/Desktop/half_adder/hald_adder.v {1 {vlog -work work -stats=none C:/Users/shash/OneDrive/Desktop/half_adder/hald_adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module half_adder_structural
+
+Top level modules:
+	half_adder_structural
+
+} {} {}}

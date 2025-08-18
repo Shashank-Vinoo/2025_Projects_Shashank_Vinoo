@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/shash/OneDrive/Desktop/comparitor_nbit/sim
+vmux_4x_nbit
+Z0 !s110 1753466263
+!i10b 1
+!s100 CFF<W;lzUI?>leEllhnAa3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ILlfZAMhDHVK>FGKA9JzN:1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/shash/OneDrive/Desktop/mux/sim
+w1753466258
+8C:/Users/shash/OneDrive/Desktop/mux/mux_4x_nbit.v
+FC:/Users/shash/OneDrive/Desktop/mux/mux_4x_nbit.v
+!i122 1
+L0 1 21
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1753466263.000000
+!s107 C:/Users/shash/OneDrive/Desktop/mux/mux_4x_nbit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/shash/OneDrive/Desktop/mux/mux_4x_nbit.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vtb_mux_4x_nbit
+R0
+!i10b 1
+!s100 NB9FELX_@XZL7ATK^0>7P3
+R1
+IHd5kDO[Aid024kQLCQJK30
+R2
+R3
+w1753466097
+8C:/Users/shash/OneDrive/Desktop/mux/tb_mux_4x_nbit.v
+FC:/Users/shash/OneDrive/Desktop/mux/tb_mux_4x_nbit.v
+!i122 2
+L0 3 37
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/shash/OneDrive/Desktop/mux/tb_mux_4x_nbit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/shash/OneDrive/Desktop/mux/tb_mux_4x_nbit.v|
+!i113 1
+R6
+R7

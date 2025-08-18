@@ -1,0 +1,15 @@
+C:/Users/shash/OneDrive/Desktop/comparitor_nbit/comparitor_nbit.v {1 {vlog -work work -stats=none C:/Users/shash/OneDrive/Desktop/comparitor_nbit/comparitor_nbit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module comparator_nbit
+
+Top level modules:
+	comparator_nbit
+
+} {} {}} C:/Users/shash/OneDrive/Desktop/comparitor_nbit/tb_comparator_nbit.v {1 {vlog -work work -stats=none C:/Users/shash/OneDrive/Desktop/comparitor_nbit/tb_comparator_nbit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_comparator_nibit
+
+Top level modules:
+	tb_comparator_nibit
+
+} {} {}}

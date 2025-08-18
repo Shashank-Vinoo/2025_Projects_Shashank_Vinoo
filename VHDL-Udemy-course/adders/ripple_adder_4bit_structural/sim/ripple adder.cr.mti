@@ -1,0 +1,29 @@
+C:/Users/shash/OneDrive/Desktop/ripple_adder_4bit_structural/testbench_4bit_adder.v {1 {vlog -work work -stats=none C:/Users/shash/OneDrive/Desktop/ripple_adder_4bit_structural/testbench_4bit_adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testbench_4bit_adder
+
+Top level modules:
+	testbench_4bit_adder
+
+} {} {}} C:/Users/shash/OneDrive/Desktop/ripple_adder_4bit_structural/ripple_adder_4bit_structural.v {1 {vlog -work work -stats=none C:/Users/shash/OneDrive/Desktop/ripple_adder_4bit_structural/ripple_adder_4bit_structural.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ripple_adder_4bit_structural
+
+Top level modules:
+	ripple_adder_4bit_structural
+
+} {} {}} C:/Users/shash/OneDrive/Desktop/ripple_adder_4bit_structural/half_adder_structural.v {1 {vlog -work work -stats=none C:/Users/shash/OneDrive/Desktop/ripple_adder_4bit_structural/half_adder_structural.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module half_adder_structural
+
+Top level modules:
+	half_adder_structural
+
+} {} {}} C:/Users/shash/OneDrive/Desktop/ripple_adder_4bit_structural/full_adder_structural.v {1 {vlog -work work -stats=none C:/Users/shash/OneDrive/Desktop/ripple_adder_4bit_structural/full_adder_structural.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module full_adder_structural
+
+Top level modules:
+	full_adder_structural
+
+} {} {}}

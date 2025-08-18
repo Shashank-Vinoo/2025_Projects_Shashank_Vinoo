@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/shash/OneDrive/Desktop/shift_reg_siso/sim
+vcounter_nbit
+Z0 !s110 1753980431
+!i10b 1
+!s100 hDIK`24dlZ5HGe_BWRSd73
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I1b:7MKoXVSi_7C1I:MQAB3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/shash/OneDrive/Desktop/counter_nbit/sim
+w1753979684
+8C:/Users/shash/OneDrive/Desktop/counter_nbit/counter_nbit.v
+FC:/Users/shash/OneDrive/Desktop/counter_nbit/counter_nbit.v
+!i122 0
+L0 1 16
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1753980430.000000
+!s107 C:/Users/shash/OneDrive/Desktop/counter_nbit/counter_nbit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/shash/OneDrive/Desktop/counter_nbit/counter_nbit.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtb_counter_nbit
+R0
+!i10b 1
+!s100 <cJ_IQgZ1=UPbW8a3Ck_@3
+R1
+ILcKYNTXQ?djTjKKlE3Y382
+R2
+R3
+w1753980346
+8C:/Users/shash/OneDrive/Desktop/counter_nbit/tb_counter_nbit.v
+FC:/Users/shash/OneDrive/Desktop/counter_nbit/tb_counter_nbit.v
+!i122 1
+L0 3 31
+R4
+r1
+!s85 0
+31
+!s108 1753980431.000000
+!s107 C:/Users/shash/OneDrive/Desktop/counter_nbit/tb_counter_nbit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/shash/OneDrive/Desktop/counter_nbit/tb_counter_nbit.v|
+!i113 1
+R5
+R6

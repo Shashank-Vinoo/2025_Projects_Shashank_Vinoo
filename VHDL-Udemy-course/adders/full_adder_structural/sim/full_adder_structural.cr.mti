@@ -1,0 +1,22 @@
+C:/Users/shash/OneDrive/Desktop/full_adder_structural/testbench.v {1 {vlog -work work -stats=none C:/Users/shash/OneDrive/Desktop/full_adder_structural/testbench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} C:/Users/shash/OneDrive/Desktop/full_adder_structural/full_adder_structural.v {1 {vlog -work work -stats=none C:/Users/shash/OneDrive/Desktop/full_adder_structural/full_adder_structural.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module full_adder_structural
+
+Top level modules:
+	full_adder_structural
+
+} {} {}} C:/Users/shash/OneDrive/Desktop/full_adder_structural/half_adder_structural.v {1 {vlog -work work -stats=none C:/Users/shash/OneDrive/Desktop/full_adder_structural/half_adder_structural.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module half_adder_structural
+
+Top level modules:
+	half_adder_structural
+
+} {} {}}
