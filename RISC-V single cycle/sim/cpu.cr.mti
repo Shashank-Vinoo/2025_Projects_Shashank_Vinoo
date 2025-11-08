@@ -1,0 +1,96 @@
+{C:/Users/shash/Desktop/RISC-V single cycle/And.v} {1 {vlog -work work -stats=none {C:/Users/shash/Desktop/RISC-V single cycle/And.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module AND
+
+Top level modules:
+	AND
+
+} {} {}} {C:/Users/shash/Desktop/RISC-V single cycle/Imm_Gen.v} {1 {vlog -work work -stats=none {C:/Users/shash/Desktop/RISC-V single cycle/Imm_Gen.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Immgen
+
+Top level modules:
+	Immgen
+
+} {} {}} {C:/Users/shash/Desktop/RISC-V single cycle/Regfile.v} {1 {vlog -work work -stats=none {C:/Users/shash/Desktop/RISC-V single cycle/Regfile.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Register_File
+
+Top level modules:
+	Register_File
+
+} {} {}} {C:/Users/shash/Desktop/RISC-V single cycle/Multiplexers.v} {1 {vlog -work work -stats=none {C:/Users/shash/Desktop/RISC-V single cycle/Multiplexers.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux1
+-- Compiling module Mux2
+-- Compiling module Mux3
+
+Top level modules:
+	Mux1
+	Mux2
+	Mux3
+
+} {} {}} {C:/Users/shash/Desktop/RISC-V single cycle/Testbench.v} {1 {vlog -work work -stats=none {C:/Users/shash/Desktop/RISC-V single cycle/Testbench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RISCV_TOP_tb
+
+Top level modules:
+	RISCV_TOP_tb
+
+} {} {}} {C:/Users/shash/Desktop/RISC-V single cycle/Adder.v} {1 {vlog -work work -stats=none {C:/Users/shash/Desktop/RISC-V single cycle/Adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} {C:/Users/shash/Desktop/RISC-V single cycle/RISCV_TOP.v} {1 {vlog -work work -stats=none {C:/Users/shash/Desktop/RISC-V single cycle/RISCV_TOP.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RISCV_TOP
+
+Top level modules:
+	RISCV_TOP
+
+} {} {}} {C:/Users/shash/Desktop/RISC-V single cycle/ALU_control.v} {1 {vlog -work work -stats=none {C:/Users/shash/Desktop/RISC-V single cycle/ALU_control.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_control
+
+Top level modules:
+	ALU_control
+
+} {} {}} {C:/Users/shash/Desktop/RISC-V single cycle/PC.v} {1 {vlog -work work -stats=none {C:/Users/shash/Desktop/RISC-V single cycle/PC.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Program_Counter
+
+Top level modules:
+	Program_Counter
+
+} {} {}} {C:/Users/shash/Desktop/RISC-V single cycle/PC_plus_one.v} {1 {vlog -work work -stats=none {C:/Users/shash/Desktop/RISC-V single cycle/PC_plus_one.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PCplus4
+
+Top level modules:
+	PCplus4
+
+} {} {}} {C:/Users/shash/Desktop/RISC-V single cycle/Control_unit.v} {1 {vlog -work work -stats=none {C:/Users/shash/Desktop/RISC-V single cycle/Control_unit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Control_Unit
+
+Top level modules:
+	Control_Unit
+
+} {} {}} {C:/Users/shash/Desktop/RISC-V single cycle/ALU.v} {1 {vlog -work work -stats=none {C:/Users/shash/Desktop/RISC-V single cycle/ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_unit
+
+Top level modules:
+	ALU_unit
+
+} {} {}} {C:/Users/shash/Desktop/RISC-V single cycle/Data_Memory.v} {1 {vlog -work work -stats=none {C:/Users/shash/Desktop/RISC-V single cycle/Data_Memory.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Data_Memory
+
+Top level modules:
+	Data_Memory
+
+} {} {}}

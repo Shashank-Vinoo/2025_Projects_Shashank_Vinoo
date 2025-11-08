@@ -1,0 +1,395 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/shash/Desktop/FPGA/01_switches_to_LEDs/sim
+vAdder
+Z0 !s110 1762599474
+!i10b 1
+!s100 PT[gKMLa`k`2Zkz=[3M?g0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Il[>W^H=m9RVgjPn^agCal3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/shash/Desktop/RISC-V single cycle/sim
+w1762327700
+8C:/Users/shash/Desktop/RISC-V single cycle/Adder.v
+FC:/Users/shash/Desktop/RISC-V single cycle/Adder.v
+!i122 451
+L0 1 7
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1762599474.000000
+!s107 C:/Users/shash/Desktop/RISC-V single cycle/Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/shash/Desktop/RISC-V single cycle/Adder.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@adder
+vALU_control
+Z8 !s110 1762599475
+!i10b 1
+!s100 oKfi:ah2fC646nE_9ZH=E2
+R1
+IaRhcKJ1j2U4f^R05C9fCj1
+R2
+R3
+Z9 w1762331034
+8C:/Users/shash/Desktop/RISC-V single cycle/ALU_control.v
+FC:/Users/shash/Desktop/RISC-V single cycle/ALU_control.v
+!i122 453
+L0 1 25
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/shash/Desktop/RISC-V single cycle/ALU_control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/shash/Desktop/RISC-V single cycle/ALU_control.v|
+!i113 1
+R6
+R7
+n@a@l@u_control
+vALU_unit
+R0
+!i10b 1
+!s100 ^O]B4Q<6^c4H1E>aVMYMl0
+R1
+Ij0CLDFSlJCVR:8?F]72dZ2
+R2
+R3
+w1755299498
+8C:/Users/shash/Desktop/RISC-V single cycle/ALU.v
+FC:/Users/shash/Desktop/RISC-V single cycle/ALU.v
+!i122 452
+L0 2 24
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/shash/Desktop/RISC-V single cycle/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/shash/Desktop/RISC-V single cycle/ALU.v|
+!i113 1
+R6
+R7
+n@a@l@u_unit
+vAND
+R8
+!i10b 1
+!s100 J:Fcdi0Sa:3b7eiM9OE=X3
+R1
+I9UV4gVe9JCUg2D;d>bYM@2
+R2
+R3
+w1755345495
+8C:/Users/shash/Desktop/RISC-V single cycle/And.v
+FC:/Users/shash/Desktop/RISC-V single cycle/And.v
+!i122 454
+L0 1 11
+R4
+r1
+!s85 0
+31
+Z10 !s108 1762599475.000000
+!s107 C:/Users/shash/Desktop/RISC-V single cycle/And.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/shash/Desktop/RISC-V single cycle/And.v|
+!i113 1
+R6
+R7
+n@a@n@d
+vControl_Unit
+R8
+!i10b 1
+!s100 mMNUN[aB:j@FYF9W^>C4h1
+R1
+II=0TM<CK9M<_`fSocO8B@2
+R2
+R3
+w1755297951
+8C:/Users/shash/Desktop/RISC-V single cycle/Control_unit.v
+FC:/Users/shash/Desktop/RISC-V single cycle/Control_unit.v
+!i122 455
+L0 3 30
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/shash/Desktop/RISC-V single cycle/Control_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/shash/Desktop/RISC-V single cycle/Control_unit.v|
+!i113 1
+R6
+R7
+n@control_@unit
+vData_Memory
+R8
+!i10b 1
+!s100 6:OC<8BC=[^?C7W9[:^jG1
+R1
+IP4Cm]RaO<C4Tn`WMM<4=`2
+R2
+R3
+w1762558945
+8C:/Users/shash/Desktop/RISC-V single cycle/Data_Memory.v
+FC:/Users/shash/Desktop/RISC-V single cycle/Data_Memory.v
+!i122 456
+L0 1 28
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/shash/Desktop/RISC-V single cycle/Data_Memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/shash/Desktop/RISC-V single cycle/Data_Memory.v|
+!i113 1
+R6
+R7
+n@data_@memory
+vImmgen
+Z11 !s110 1762599476
+!i10b 1
+!s100 eaB:coiR8hMEiC^aH`c3P0
+R1
+If=XWn:BMPC?KOTFaL1[D^1
+R2
+R3
+w1762370615
+8C:/Users/shash/Desktop/RISC-V single cycle/Imm_Gen.v
+FC:/Users/shash/Desktop/RISC-V single cycle/Imm_Gen.v
+!i122 457
+L0 2 21
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/shash/Desktop/RISC-V single cycle/Imm_Gen.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/shash/Desktop/RISC-V single cycle/Imm_Gen.v|
+!i113 1
+R6
+R7
+n@immgen
+vInstruction_Memory
+R11
+!i10b 1
+!s100 hl2_<8Ahl^AXk=MI:Kobd0
+R1
+I83<<@de8VVLaI1mG;NYj91
+R2
+R3
+w1762599471
+8C:/Users/shash/Desktop/RISC-V single cycle/Instruction_Memory.v
+FC:/Users/shash/Desktop/RISC-V single cycle/Instruction_Memory.v
+!i122 458
+L0 1 45
+R4
+r1
+!s85 0
+31
+Z12 !s108 1762599476.000000
+!s107 C:/Users/shash/Desktop/RISC-V single cycle/Instruction_Memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/shash/Desktop/RISC-V single cycle/Instruction_Memory.v|
+!i113 1
+R6
+R7
+n@instruction_@memory
+vMux1
+R11
+!i10b 1
+!s100 o[<Wbdgm;m3JkPIofAXd^2
+R1
+IgY8^H8ZQed3dlQQRYmITf0
+R2
+R3
+Z13 w1755338711
+Z14 8C:/Users/shash/Desktop/RISC-V single cycle/Multiplexers.v
+Z15 FC:/Users/shash/Desktop/RISC-V single cycle/Multiplexers.v
+!i122 459
+L0 2 8
+R4
+r1
+!s85 0
+31
+R12
+Z16 !s107 C:/Users/shash/Desktop/RISC-V single cycle/Multiplexers.v|
+Z17 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/shash/Desktop/RISC-V single cycle/Multiplexers.v|
+!i113 1
+R6
+R7
+n@mux1
+vMux2
+R11
+!i10b 1
+!s100 O7BM;Y0eRnFLF9JP12X3<2
+R1
+IRE@L4=CKS^5ULX>ngBHOn2
+R2
+R3
+R13
+R14
+R15
+!i122 459
+L0 11 8
+R4
+r1
+!s85 0
+31
+R12
+R16
+R17
+!i113 1
+R6
+R7
+n@mux2
+vMux3
+R11
+!i10b 1
+!s100 XAz9]O>hf>^;^T]UOKdBM3
+R1
+IRUQz^f==W@Dn:3?D<gRP@2
+R2
+R3
+R13
+R14
+R15
+!i122 459
+L0 20 8
+R4
+r1
+!s85 0
+31
+R12
+R16
+R17
+!i113 1
+R6
+R7
+n@mux3
+vPCplus4
+Z18 !s110 1762599477
+!i10b 1
+!s100 5P[GTD=SSa2iY?boa5iMQ0
+R1
+I[7FQ9^7;Ob^:MobCbAe4_1
+R2
+R3
+R9
+8C:/Users/shash/Desktop/RISC-V single cycle/PC_plus_one.v
+FC:/Users/shash/Desktop/RISC-V single cycle/PC_plus_one.v
+!i122 461
+L0 2 6
+R4
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/shash/Desktop/RISC-V single cycle/PC_plus_one.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/shash/Desktop/RISC-V single cycle/PC_plus_one.v|
+!i113 1
+R6
+R7
+n@p@cplus4
+vProgram_Counter
+R11
+!i10b 1
+!s100 l5dzchDCWUD1<7?Y_19FF2
+R1
+IFOWhl;;lF_AUb?7jX5_el0
+R2
+R3
+w1755190477
+8C:/Users/shash/Desktop/RISC-V single cycle/PC.v
+FC:/Users/shash/Desktop/RISC-V single cycle/PC.v
+!i122 460
+L0 1 15
+R4
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/shash/Desktop/RISC-V single cycle/PC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/shash/Desktop/RISC-V single cycle/PC.v|
+!i113 1
+R6
+R7
+n@program_@counter
+vRegister_File
+R18
+!i10b 1
+!s100 X4@=`0Wg7PNJNeb>dIUWi1
+R1
+I[aQFYSe?o?OJ1^lh_N1R;2
+R2
+R3
+w1762599043
+8C:/Users/shash/Desktop/RISC-V single cycle/Regfile.v
+FC:/Users/shash/Desktop/RISC-V single cycle/Regfile.v
+!i122 462
+L0 2 59
+R4
+r1
+!s85 0
+31
+Z19 !s108 1762599477.000000
+!s107 C:/Users/shash/Desktop/RISC-V single cycle/Regfile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/shash/Desktop/RISC-V single cycle/Regfile.v|
+!i113 1
+R6
+R7
+n@register_@file
+vRISCV_TOP
+R18
+!i10b 1
+!s100 me=A97zQDU@meXCC823kk1
+R1
+I7<W_8J8AfCnHO[oK@7C:F0
+R2
+R3
+w1755385333
+8C:/Users/shash/Desktop/RISC-V single cycle/RISCV_TOP.v
+FC:/Users/shash/Desktop/RISC-V single cycle/RISCV_TOP.v
+!i122 463
+L0 1 139
+R4
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/shash/Desktop/RISC-V single cycle/RISCV_TOP.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/shash/Desktop/RISC-V single cycle/RISCV_TOP.v|
+!i113 1
+R6
+R7
+n@r@i@s@c@v_@t@o@p
+vRISCV_TOP_tb
+R18
+!i10b 1
+!s100 3X9ln4FGOTBo@^I;S3CW@1
+R1
+I6VX7KlOj1Pdm92h>^@S200
+R2
+R3
+w1762371620
+8C:/Users/shash/Desktop/RISC-V single cycle/Testbench.v
+FC:/Users/shash/Desktop/RISC-V single cycle/Testbench.v
+!i122 464
+L0 3 27
+R4
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/shash/Desktop/RISC-V single cycle/Testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/shash/Desktop/RISC-V single cycle/Testbench.v|
+!i113 1
+R6
+R7
+n@r@i@s@c@v_@t@o@p_tb
