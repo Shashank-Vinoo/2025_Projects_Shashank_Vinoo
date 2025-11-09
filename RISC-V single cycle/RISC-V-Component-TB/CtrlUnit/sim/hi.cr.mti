@@ -1,0 +1,9 @@
+C:/Users/shash/Desktop/RISC-V-Component-TB/CtrlUnit/CtrlUnit.v {1 {vlog -work work -stats=none C:/Users/shash/Desktop/RISC-V-Component-TB/CtrlUnit/CtrlUnit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Control_Unit
+-- Compiling module main
+
+Top level modules:
+	main
+
+} {} {}}

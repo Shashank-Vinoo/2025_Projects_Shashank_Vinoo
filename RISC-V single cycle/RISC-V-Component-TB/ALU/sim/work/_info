@@ -1,0 +1,58 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/shash/Desktop/RISC-V single cycle/sim
+vALU_unit
+Z0 !s110 1762644330
+!i10b 1
+!s100 bmjhBQ0<a4NMB?DK6Lb_B0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IT@AzH_7<f:Ed3fhJzDH<P1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/shash/Desktop/RISC-V-Component-TB/ALU/sim
+Z4 w1762644251
+Z5 8C:/Users/shash/Desktop/RISC-V-Component-TB/ALU/ALU-GoldenModel-TB.v
+Z6 FC:/Users/shash/Desktop/RISC-V-Component-TB/ALU/ALU-GoldenModel-TB.v
+!i122 0
+L0 2 22
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1762644330.000000
+!s107 C:/Users/shash/Desktop/RISC-V-Component-TB/ALU/ALU-GoldenModel-TB.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/shash/Desktop/RISC-V-Component-TB/ALU/ALU-GoldenModel-TB.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@a@l@u_unit
+vmain
+R0
+!i10b 1
+!s100 ^PKM?9eE^N;]fIejP5bB63
+R1
+Im^FLM<ZUDLi@`j>nE^d<`3
+R2
+R3
+R4
+R5
+R6
+!i122 0
+L0 26 78
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 C:/Users/shash/Desktop/RISC-V-Component-TB/ALU/ALU-GoldenModel-TB.v|
+R9
+!i113 1
+R10
+R11
