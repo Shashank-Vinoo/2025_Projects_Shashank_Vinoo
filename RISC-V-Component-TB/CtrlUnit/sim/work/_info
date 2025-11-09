@@ -1,0 +1,58 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/shash/Desktop/RISC-V-Component-TB/ALUctrl/sim
+vControl_Unit
+Z0 !s110 1762690477
+!i10b 1
+!s100 j5ZZX::NEUh]l2P=63kEc3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I]dZF:RJnd3_l;f1OfSH6W2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/shash/Desktop/RISC-V-Component-TB/CtrlUnit/sim
+Z4 w1762690472
+Z5 8C:/Users/shash/Desktop/RISC-V-Component-TB/CtrlUnit/CtrlUnit.v
+Z6 FC:/Users/shash/Desktop/RISC-V-Component-TB/CtrlUnit/CtrlUnit.v
+!i122 1
+L0 2 30
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1762690477.000000
+!s107 C:/Users/shash/Desktop/RISC-V-Component-TB/CtrlUnit/CtrlUnit.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/shash/Desktop/RISC-V-Component-TB/CtrlUnit/CtrlUnit.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@control_@unit
+vmain
+R0
+!i10b 1
+!s100 F_]DC2:U^V?dSQgL3hIJV3
+R1
+Ig0N`UNmWd0SYLbV@LWC7C2
+R2
+R3
+R4
+R5
+R6
+!i122 1
+L0 34 93
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 C:/Users/shash/Desktop/RISC-V-Component-TB/CtrlUnit/CtrlUnit.v|
+R9
+!i113 1
+R10
+R11
